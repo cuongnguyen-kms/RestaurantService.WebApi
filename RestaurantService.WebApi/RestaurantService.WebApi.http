@@ -1,0 +1,6 @@
+@RestaurantService.WebApi_HostAddress = http://localhost:5123
+
+GET {{RestaurantService.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
